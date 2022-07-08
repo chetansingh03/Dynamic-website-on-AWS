@@ -1,1 +1,1 @@
-# Dynamic-website-on-AWS
+# minorproject
